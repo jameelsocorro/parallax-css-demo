@@ -1,14 +1,12 @@
-# package.json
+# parallax-css-demo
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository is based on converting this mockup into a parallax landing page.
 
-## Recommended IDE Setup
+![eolan](assets/cover.png?raw=true)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Youtube
+You may watch it here: https://youtu.be/JBI78K7G5sg
+>Make sure to like + subscribe my [youtube](https://www.youtube.com/c/devlift) for more!
 
 ## Project Setup
 
@@ -33,3 +31,14 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Support Me
+
+**BTC**: 33K7ie7b5vHzypAV3VZZLf9JY5Zahm5zt9
+
+**ETH**: 0x451e22d4ef070eedbb5a7eec3bf62f7d0fee9b54
+
+**BCH**: prv7c2juzp5yrwej0mkmuq7z42ccxc3crvase72jcn 
+
+Enjoy!
+
