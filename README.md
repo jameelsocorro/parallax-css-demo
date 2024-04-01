@@ -2,7 +2,7 @@
 
 This repository is based on converting this mockup into a parallax landing page.
 
-![eolan](assets/cover.png?raw=true)
+![eolan](src/assets/cover.png?raw=true)
 
 ## Youtube
 You may watch it here: https://youtu.be/JBI78K7G5sg
