@@ -5,8 +5,8 @@ This repository is based on converting this mockup into a parallax landing page.
 ![eolan](src/assets/cover.png?raw=true)
 
 ## Youtube
-You may watch it here: https://youtu.be/JBI78K7G5sg
->Make sure to like + subscribe my [youtube](https://www.youtube.com/c/devlift) for more!
+You may watch it here: [https://youtu.be/JBI78K7G5sg](https://youtu.be/ptcFH8i7ibE)
+>Make sure to like + subscribe my [youtube](https://www.youtube.com/@jameelsocorro) for more!
 
 ## Project Setup
 
